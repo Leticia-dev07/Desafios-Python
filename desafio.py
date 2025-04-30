@@ -175,7 +175,7 @@
 # for digito in number_inteiro:
 #     soma += int(digito)
 
-# print(f"A soma dos dígitos de {number} é: {soma}")
+# print(f"A soma dos dígitos de {number} é: {soma}") 
 
 
 
